@@ -1,3 +1,7 @@
+"""
+Simple function to determine if any 3 numbers can be summed to equal 0
+from a provided input.
+"""
 def check_sum_zero(nums):
     # initialize starting point
     current_index = 0

@@ -1,3 +1,7 @@
+"""
+Simple function to determine whether there is a sequence of integer
+numbers that equal the provided total.
+"""
 def check_sequence_total(nums, total):
     running_index = 0
 
