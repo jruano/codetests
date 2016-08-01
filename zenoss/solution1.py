@@ -1,6 +1,6 @@
 """
-author  Julio Ruano
-email   jruano03@gmail.com
+author:  Julio Ruano
+email:   jruano03@gmail.com
 
 Simple program to discover the missing letters from the ascii set
 of characters for a given string.

@@ -1,4 +1,7 @@
 """
+author:	Julio Ruano
+email:	jruano03@gmail.com
+
 Simple function to determine whether there is a sequence of integer
 numbers that equal the provided total.
 """

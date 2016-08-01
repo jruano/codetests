@@ -1,4 +1,7 @@
 """
+author: Julio Ruano
+email: jruano03@gmail.com
+
 Simple function to determine if any 3 numbers can be summed to equal 0
 from a provided input.
 """

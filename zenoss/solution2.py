@@ -1,6 +1,6 @@
 """
-author  Julio Ruano
-email   jruano03@gmail.com
+author:  Julio Ruano
+email:   jruano03@gmail.com
 
 Simple program to "animate" a "particle" through a "chamber". Various rules
 are provided in terms of speed, direction, etc... Essentially is an interesting
